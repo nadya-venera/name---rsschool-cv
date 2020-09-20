@@ -6,3 +6,4 @@
 5.	– 
 6.	**Experience:** The Rolling Scopes School (JavaScript/Front-end)
 7.	**Education:** Minsk, 2013 – Belarus State Medical University , Minsk, 2014 – Belarusian state University of Informatics and Radioelectronics (Retraining of specialists, web-design and computer graphics)
+8. **Languages:** English B1
